@@ -8,7 +8,7 @@ public class Carro {
         this.marca = marca;
         this.modelo = modelo;
         this.ano = ano;
-        this.velocidade = 0; // Inicialmente parado
+        this.velocidade = 0;
     }
 
     public void acelerar(double incremento) {
